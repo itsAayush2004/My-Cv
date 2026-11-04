@@ -1,0 +1,43 @@
+AAYUSH KUMAR
+Software Engineer | Backend (Python, FastAPI) | Full-Stack | AI / LLM
+aayushkumarofficial21@gmail.com | +91 98290 92369 | linkedin.com/in/aayush-kumar-872ab1323 | github.com/itsAayush2004 | itsaayush2004.github.io/portfolio | Jaipur, Rajasthan, India
+
+SUMMARY
+Software Engineer with a B.Tech from NIT Jaipur (2026) and production experience in backend, full-stack and AI engineering. At Clymora, built async Python (FastAPI) REST APIs and RAG pipelines that serve LLM inference to 4,500+ users at 99.8% uptime, and cut API latency by 40%. As founder-developer of ARTHIS.space, scaled a 70+ game web platform, its React Native Android and iOS apps and a Python real-time multiplayer server to 10,000 daily active users on PostgreSQL (Supabase). Strong in Python, JavaScript/TypeScript, C++, data structures and algorithms, and system design.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, TypeScript, C++, C#, Java, SQL, HTML, CSS
+Backend: FastAPI (async), Node.js, REST API design, WebSocket, TCP sockets, PostgreSQL, Supabase, database design, Row Level Security, authentication, data pipelines, third-party API integration
+AI / ML: LLM integration, RAG pipelines, vector databases, fine-tuning, transformer models (GPT-2), NLP, prompt engineering, AI agents, Model Context Protocol (MCP), Ollama
+Frontend and Mobile: React, Vite, React Native (Expo), Android, iOS, Three.js, WebGL, HTML5 Canvas, responsive design
+DevOps and Tools: Git, GitHub Actions, CI/CD, Linux, Docker, Cloudflare Workers, web security, performance optimization, technical documentation
+CS Fundamentals: Data structures and algorithms, OOP, design patterns, system design, concurrency, multithreading, socket programming, software testing, debugging, Agile, SDLC
+
+EXPERIENCE
+Founder and Software Engineer | Arthis Technologies, Jaipur | Jun 2026 – Present
+arthis.space | arthis.land | github.com/itsAayush2004/arthisland-relay
+• Built and scaled ARTHIS.space, a swipeable web platform of 70+ HTML5 single- and multiplayer games (Three.js, 2D Canvas, WebRTC), from 1 to 10,000 daily active users on Supabase and PostgreSQL.
+• Designed a zero-dependency real-time multiplayer server (TCP and WebSocket) in pure Python, hosting 2–4 player rooms for Unity clients.
+• Shipped Android and iOS apps in React Native (Expo) with a live game-preview feed and AdMob ads, optimized for low-end devices.
+• Engineered a zero-cost 5-layer code-protection pipeline (obfuscation, AES-GCM encryption, Cloudflare Worker key service, WebAssembly VM) that secures 78 games.
+• Built Arthis.Land, a React and Vite metaverse whose Unity WebGL viewer loads .glb rooms at runtime; automated CI/CD with GitHub Actions and wrote its architecture and security docs.
+• Built a multi-agent AI game generator (build, score, fix loop) on Claude and Ollama, with RAG search and fine-tuning.
+
+Backend Developer Intern (AI) | Clymora, Jaipur | Jan 2026 – Jun 2026
+• Designed and shipped 6 production REST API endpoints in async Python (FastAPI), serving LLM inference to 4,500+ users.
+• Cut API latency by 40% by rebuilding data pipelines and adding concurrent request handling, at 9,000 peak daily requests.
+• Built RAG pipelines on vector databases to ground LLM answers in internal data; trained a GPT-2 model from scratch.
+• Tested, deployed and monitored AI services on Linux in a 4-engineer Agile team.
+
+Freelance 3D Animator and Tools Developer | AKVerse, Jaipur | Dec 2024 – Jan 2026
+• Developed 28 Blender Python add-ons (lip-sync, camera rigs, IK posing, render automation), replacing manual animation.
+• Automated YouTube Shorts production (Claude API, edge-tts, Blender, FFmpeg) for AKVerse, a 21,000+ subscriber channel.
+
+PROJECTS
+• CV Forge (JavaScript, Node.js, Playwright): ATS CV tailoring app: extracts must-have keywords from a job post, scores CV match 0–100 and exports PDF and Word; tested on 25 real job posts. github.com/itsAayush2004/cv-forge
+• 3D Portfolio and TravelAtlas (Three.js, WebGL): Built a scroll-driven 3D gallery portfolio that doubles as a CV, and an interactive 3D globe charting 30+ travelled places. itsaayush2004.github.io/portfolio
+• HexaBed (Unity, C#): Built a procedural hex-grid terrain generator with GLB asset placement that removes manual level layout.
+
+EDUCATION
+B.Tech, Electronics and Communication Engineering | Malaviya National Institute of Technology (MNIT, NIT Jaipur) | 2022 – 2026
+JEE Advanced: AIR 8956 | JEE Main: 98.9 percentile | Class XII: 86.7% | Class X: 90.4%
