@@ -60,12 +60,12 @@ const software = {
   stats: [
     ['10,000', 'daily active users on ARTHIS.space'],
     ['4,500+', 'users served by my FastAPI + LLM APIs'],
-    ['−40%', 'API latency at Clymora'],
+    ['−40%', 'API latency in my backend internship'],
     ['99.8%', 'uptime at 9,000 peak daily requests'],
   ],
   summary:
     'Software Engineer with a B.Tech from NIT Jaipur (2026) and production experience in backend, full-stack and AI engineering. ' +
-    'At Clymora, built async Python (FastAPI) REST APIs and RAG pipelines that serve LLM inference to 4,500+ users at 99.8% uptime, and cut API latency by 40%. ' +
+    'In a backend internship, built async Python (FastAPI) REST APIs and RAG pipelines that serve LLM inference to 4,500+ users at 99.8% uptime, and cut API latency by 40%. ' +
     'As founder-developer of ARTHIS.space, scaled a 70+ game web platform, its React Native Android and iOS apps and a Python real-time multiplayer server to 10,000 daily active users on PostgreSQL (Supabase). ' +
     'Strong in Python, JavaScript/TypeScript, C++, data structures and algorithms, and system design.',
   skillsTitle: 'Technical Skills',
@@ -92,7 +92,7 @@ const software = {
       ],
     },
     {
-      title: 'Backend Developer Intern (AI)', org: 'Clymora', place: 'Jaipur', dates: 'Jan 2026 – Jun 2026',
+      title: 'Backend Developer Intern (AI)', org: 'Internship', place: 'Jaipur', dates: 'Jan 2026 – Jun 2026',
       bullets: [
         'Designed and shipped 6 production REST API endpoints in async Python (FastAPI), serving LLM inference to 4,500+ users.',
         'Cut API latency by 40% by rebuilding data pipelines and adding concurrent request handling, at 9,000 peak daily requests.',
@@ -180,7 +180,7 @@ const game = {
       ],
     },
     {
-      title: 'Backend Developer Intern (AI)', org: 'Clymora', place: 'Jaipur', dates: 'Jan 2026 – Jun 2026',
+      title: 'Backend Developer Intern (AI)', org: 'Internship', place: 'Jaipur', dates: 'Jan 2026 – Jun 2026',
       bullets: [
         'Shipped 6 production REST API endpoints in async FastAPI serving 4,500+ users at 99.8% uptime.',
         'Cut API latency by 40% with concurrent request handling, sustaining 9,000 peak daily requests.',
@@ -257,7 +257,7 @@ const marketing = {
       ],
     },
     {
-      title: 'Backend Developer Intern (AI)', org: 'Clymora', place: 'Jaipur', dates: 'Jan 2026 – Jun 2026',
+      title: 'Backend Developer Intern (AI)', org: 'Internship', place: 'Jaipur', dates: 'Jan 2026 – Jun 2026',
       bullets: [
         'Shipped 6 AI-powered API features used by 4,500+ users at 99.8% uptime in a 4-person Agile team.',
         'Cut response time by 40% at 9,000 peak daily requests, a technical base for analytics and marketing automation.',

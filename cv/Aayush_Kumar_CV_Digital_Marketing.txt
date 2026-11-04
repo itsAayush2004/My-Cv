@@ -31,7 +31,7 @@ arthis.space | arthis.land
 • Managed brand decisions across 3 products, including app renames (Dotspace, DotLand), launcher icon redesigns and a trademark-safe game rename.
 • Built landing and download pages for both websites, prepared them for Google AdSense, and turned my GitHub contribution graph into a playable game as a personal-brand hook.
 
-Backend Developer Intern (AI) | Clymora, Jaipur | Jan 2026 – Jun 2026
+Backend Developer Intern (AI) | Internship, Jaipur | Jan 2026 – Jun 2026
 • Shipped 6 AI-powered API features used by 4,500+ users at 99.8% uptime in a 4-person Agile team.
 • Cut response time by 40% at 9,000 peak daily requests, a technical base for analytics and marketing automation.
 
