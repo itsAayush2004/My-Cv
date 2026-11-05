@@ -20,6 +20,20 @@ const basics = {
   github: { text: 'github.com/itsAayush2004', url: 'https://github.com/itsAayush2004' },
   portfolio: { text: 'itsaayush2004.github.io/portfolio', url: 'https://itsaayush2004.github.io/portfolio/' },
   youtube: { text: 'youtube.com/@AKVerseOfficial', url: 'https://www.youtube.com/@AKVerseOfficial' },
+  // Profile links shown at the top of every CV. `color` is the platform's official brand colour
+  // (icons use it exactly); `text2` is a slightly deeper shade where the brand colour is too light
+  // to read as small print; `dark` is used on the web page in dark mode.
+  // The portfolio is drawn as a highlighted pill, not in a brand colour.
+  socials: {
+    portfolio: { label: 'Portfolio', text: 'itsaayush2004.github.io/portfolio', url: 'https://itsaayush2004.github.io/portfolio/', icon: 'star' },
+    linkedin: { label: 'LinkedIn', text: 'linkedin.com/in/aayush-kumar-872ab1323', url: 'https://www.linkedin.com/in/aayush-kumar-872ab1323', color: '#0A66C2', dark: '#4A9DEB', icon: 'linkedin' },
+    github: { label: 'GitHub', text: 'github.com/itsAayush2004', url: 'https://github.com/itsAayush2004', color: '#181717', dark: '#F0F6FC', icon: 'github' },
+    youtube: { label: 'YouTube', text: 'youtube.com/@AKVerseOfficial', url: 'https://www.youtube.com/@AKVerseOfficial', color: '#FF0000', text2: '#E00000', dark: '#FF4E45', icon: 'youtube' },
+    instagram: { label: 'Instagram', text: 'instagram.com/akverseofficial', url: 'https://www.instagram.com/akverseofficial/', color: '#FF0069', text2: '#E4005E', dark: '#FF4D94', icon: 'instagram' },
+    sketchfab: { label: 'Sketchfab', text: 'sketchfab.com/AKVerseOfficial', url: 'https://sketchfab.com/AKVerseOfficial', color: '#1CAAD9', text2: '#0F8DB8', dark: '#3CC4F0', icon: 'sketchfab' },
+    artstation: { label: 'ArtStation', text: 'artstation.com/akverseofficial', url: 'https://www.artstation.com/akverseofficial', color: '#13AFF0', text2: '#0A92CC', dark: '#3DC0F5', icon: 'artstation' },
+    arthis: { label: 'ARTHIS.space', text: 'arthis.space', url: 'https://arthis.space/', color: '#6D28D9', dark: '#A78BFA', icon: 'globe' },
+  },
 };
 
 const L = {
@@ -56,7 +70,8 @@ const software = {
   pdfTitle: 'Aayush Kumar - Software Engineer CV',
   eyebrow: 'CV · Software Engineering',
   headline: ['Software Engineer', 'Backend (Python, FastAPI)', 'Full-Stack', 'AI / LLM'],
-  contacts: ['email', 'phone', 'linkedin', 'github', 'portfolio', 'location'],
+  contacts: ['email', 'phone', 'location'],
+  socials: ['linkedin', 'github', 'arthis', 'youtube', 'instagram', 'sketchfab', 'artstation'],
   stats: [
     ['10,000', 'daily active users on ARTHIS.space'],
     ['4,500+', 'users served by my FastAPI + LLM APIs'],
@@ -136,7 +151,8 @@ const game = {
   pdfTitle: 'Aayush Kumar - Game Developer CV',
   eyebrow: 'CV · Game Development',
   headline: ['Game Developer', 'Unity (C#)', 'HTML5 and WebGL', 'Real-Time Multiplayer'],
-  contacts: ['email', 'phone', 'linkedin', 'github', 'portfolio', 'location'],
+  contacts: ['email', 'phone', 'location'],
+  socials: ['github', 'linkedin', 'arthis', 'sketchfab', 'artstation', 'youtube', 'instagram'],
   stats: [
     ['70+', 'HTML5 games shipped, single and multiplayer'],
     ['10,000', 'daily active users on ARTHIS.space'],
@@ -210,7 +226,8 @@ const marketing = {
   pdfTitle: 'Aayush Kumar - Digital Marketing CV',
   eyebrow: 'CV · Digital Marketing',
   headline: ['Digital Marketing', 'Social Media and Content Marketing', 'Video and YouTube Growth'],
-  contacts: ['email', 'phone', 'linkedin', 'youtube', 'portfolio', 'location'],
+  contacts: ['email', 'phone', 'location'],
+  socials: ['instagram', 'youtube', 'linkedin', 'arthis', 'artstation', 'sketchfab', 'github'],
   stats: [
     ['21,000+', 'YouTube subscribers on AKVerse'],
     ['4,500+', 'Instagram followers'],
